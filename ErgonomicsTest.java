@@ -1,4 +1,3 @@
-package loginsystemv3;
 import java.util.Scanner;
 
 public class ErgonomicsTest {
