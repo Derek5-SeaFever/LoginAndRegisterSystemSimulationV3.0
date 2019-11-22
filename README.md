@@ -1,0 +1,2 @@
+# LoginAndRegisterSystemSimulationV3.0
+This is the first small work on my journey to learn Java. This project is very simple. It uses all the basic knowledge of the Java language. There are not too many skills, and the implementation may not be perfect. It is more about basic design. But it's really great!If you can, you can optimize its function and make it better. For learning and reference only.
